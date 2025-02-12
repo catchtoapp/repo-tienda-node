@@ -1,1 +1,2 @@
 Mensaje desde feature 2.
+Mensaje 2 desde feature 2.
