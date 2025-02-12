@@ -1,2 +1,3 @@
 Mensaje desde rama fixture 00003.
 Mensaje 2 de fixture 3
+Mensaje 3 de fixture 3
