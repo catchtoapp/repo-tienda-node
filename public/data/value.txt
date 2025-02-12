@@ -1,3 +1,4 @@
 Mensaje desde rama fixture 00004.
 Mensaje 2 de fixture 4
 Mensaje 3 de fixture 4
+Mensaje 4 de fixture 4
