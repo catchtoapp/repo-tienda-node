@@ -1,1 +1,2 @@
 Mensaje desde rama fixture 00001.
+Mensaje 2 de fixture 1
